@@ -1,3 +1,4 @@
+New GitHub !!
 - 👋 Hi, I’m JOÃO VITOR DIAS (@espiritoheroico2)
 - 👀 I’m interested in ... Chess, Valorant, Game Development
 - 🌱 I’m currently learning ... Javascript and DB
