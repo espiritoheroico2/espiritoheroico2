@@ -1,7 +1,5 @@
 # Olá, eu sou [João Vitor Dias da Silva]! 👋
 
-![Gatinho digitando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 ## Sobre mim
 - 🌱 Estou aprendendo [JS, C#, PYTHON, NODE,REACT]
 - 💻 Trabalho com [C#, UNITY, CONSTRUCT, UNREAL,JavaScript]
