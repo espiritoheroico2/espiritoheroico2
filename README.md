@@ -1,9 +1,5 @@
 # Olá, eu sou [João Vitor Dias da Silva]! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="GIF de programação"/>
-</p>
-
 Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e soluções criativas. 🚀
 
 ---
@@ -41,6 +37,8 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espiritoheroico2&layout=compact&theme=dracula)
+
+---
 
 ![Gatinho digitando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
