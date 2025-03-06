@@ -16,8 +16,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espiritoheroico2&layout=compact&theme=dracula)
 
-## Animação da Cobrinha
-![Snake Animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Gatinho digitando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!---
 espiritoheroico2/espiritoheroico2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
