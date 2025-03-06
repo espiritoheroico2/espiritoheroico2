@@ -14,9 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ## Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espiritoheroico2&layout=compact&theme=dracula)
 
 ## Animação da Cobrinha
 ![Snake Animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
