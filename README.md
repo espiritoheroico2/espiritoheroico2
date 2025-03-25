@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 "infelizmente perdi meu outro github espiritoheroico"
 
 - 💻 **Trabalho com**: Desenvolvimento de jogos e aplicações
-- 🌱 **Tecnologias que uso**: JavaScript, C#, Python
+- 🌱 **Tecnologias que uso**: JavaScript, C#, Python , e Game engines
 - 🎮 **Especialidade**: Unity
 - 🛠 **Ferramentas**: Visual Studio Code, Visual Studio
 - 📫 **Contato**: [Insira seu email ou redes sociais aqui]
