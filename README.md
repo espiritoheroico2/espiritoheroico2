@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 - 🌱 **Tecnologias que uso**: JavaScript, C#, Python , e Game engines
 - 🎮 **Especialidade**: Unity
 - 🛠 **Ferramentas**: Visual Studio Code, Visual Studio
-- 📫 **Contato**: [Insira seu email ou redes sociais aqui]
+- 📫 **Contato**: [joao.vitor328@gmail.com]
 
 ---
 
