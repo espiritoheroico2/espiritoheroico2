@@ -1,13 +1,13 @@
 # Olá, eu sou [João Vitor Dias da Silva]! 👋
 
-Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e soluções criativas. 🚀
+Bem-vindo(a) ao meu perfil! Sou um desenvolvedor de jogos. 🚀
 
 ---
 
 ## Sobre mim
 "infelizmente perdi meu outro github espiritoheroico"
 
-- 💻 **Trabalho com**: Desenvolvimento de jogos e aplicações
+- 💻 **Trabalho com**: Arte 2d/animações/ Desenvolvimento de jogos e aplicações
 - 🌱 **Tecnologias que uso**: JavaScript, C#, Python , e Game engines
 - 🎮 **Especialidade**: Desenvolvimento de Games
 - 🛠 **Ferramentas**: Visual Studio Code, Visual Studio, Unity, .Net , Construct3
@@ -36,18 +36,9 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 ## Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=espiritoheroico2&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espiritoheroico2&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=espiritoheroico2&layout=compact&theme=dracula)
 
 ---
-
-
-## MINHAS CRIAÇÕES
-<p align="center">
-  <img src="https://img.itch.zone/aW1nLzIyMDM5OTQ0LnBuZw==/315x250%23c/3dV%2Fje.png/>
-  <img src="https://cdna.artstation.com/p/assets/images/images/036/698/018/large/joao-v-dias-armaduraconectada.jpg?1618372563/>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/089/125/417/original/joao-v-dias-espiritoheroico-tecky-run.gif?1750108313/>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/036/698/733/large/joao-v-dias-boy.jpg?1618375607/>
-</p>
 
 <!---
 espiritoheroico2/espiritoheroico2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
