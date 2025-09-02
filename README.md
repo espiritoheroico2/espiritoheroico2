@@ -9,8 +9,8 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 
 - 💻 **Trabalho com**: Desenvolvimento de jogos e aplicações
 - 🌱 **Tecnologias que uso**: JavaScript, C#, Python , e Game engines
-- 🎮 **Especialidade**: Unity
-- 🛠 **Ferramentas**: Visual Studio Code, Visual Studio
+- 🎮 **Especialidade**: Desenvolvimento de Games
+- 🛠 **Ferramentas**: Visual Studio Code, Visual Studio, Unity, .Net , Construct3
 - 📫 **Contato**: [joao.vitor328@gmail.com]
 
 ---
@@ -40,7 +40,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar jogos e so
 
 ---
 
-![Gatinho digitando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![CatSkip](https://img.itch.zone/aW1nLzIyMDM5OTQ0LnBuZw==/315x250%23c/3dV%2Fje.png)
 
 <!---
 espiritoheroico2/espiritoheroico2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
